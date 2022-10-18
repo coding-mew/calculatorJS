@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "scripts": {
+    "start": "nodemon --ignore 'data.json' ./index.js"
+  }
+}
