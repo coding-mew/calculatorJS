@@ -69,7 +69,7 @@ console.log(manyNumbers.modulation())
 
 
 let result = biggerLast.subtract()+ negative.subtract()
-// console.log(result)
+console.log(result)
 
 
 // FILESYSTEM MANAGEMENT:
