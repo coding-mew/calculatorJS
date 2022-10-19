@@ -2,7 +2,7 @@
 
 > JS calculator using filesystem to save the result in a pdf
 
-> covers the following functions:
+> covers the following mathematical functions:
 - pi
 - eulner number
 - percentage
